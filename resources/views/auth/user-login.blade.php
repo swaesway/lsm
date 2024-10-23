@@ -31,9 +31,6 @@
                         </form>
                     </div>
                 </div>
-                <div class="text-center mt-3">
-                    <a href="#">Forgot password?</a>
-                </div>
             </div>
         </div>
     </div>
